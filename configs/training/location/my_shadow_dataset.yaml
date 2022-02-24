@@ -1,0 +1,3 @@
+data_root_dir: /home/juwan/MySharedData/ISTD_Lama/
+out_root_dir: /home/shk/Work/lama2/experiments_shadow/
+tb_dir: /home/shk/Work/lama2/tb_logs/
